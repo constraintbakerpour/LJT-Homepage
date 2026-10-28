@@ -7,7 +7,8 @@ excerpt: >-
   **Authors:** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He<br>
   **First author:** Junteng Liu<br>
   **Venue:** EMNLP 2024
-date: "2024"
+date: "2024-01-01"
+year: 2024
 venue: "EMNLP 2024"
 ---
 

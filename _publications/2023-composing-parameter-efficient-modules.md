@@ -6,7 +6,8 @@ permalink: /publication/2023-composing-parameter-efficient-modules
 excerpt: >-
   **Authors:** Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He<br>
   **Venue:** NeurIPS 2023
-date: "2023"
+date: "2023-01-01"
+year: 2023
 venue: "NeurIPS 2023"
 ---
 

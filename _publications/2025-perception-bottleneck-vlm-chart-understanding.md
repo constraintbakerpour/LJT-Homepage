@@ -7,7 +7,8 @@ excerpt: >-
   **Authors:** Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He<br>
   **First author:** Junteng Liu<br>
   **Venue:** arXiv (2025)
-date: "2025"
+date: "2025-01-01"
+year: 2025
 venue: "arXiv"
 ---
 
